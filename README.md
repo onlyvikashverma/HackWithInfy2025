@@ -8,4 +8,4 @@ This repository contains my journey through solving Data Structures and Algorith
 ## 📊 Progress Bar
 
 ```text
-[██████████▁▁▁▁▁▁▁▁▁▁] 30% Completed (45 / 150 Questions)
+[██████████▁▁▁▁▁▁▁▁▁▁] 30% Completed (00 / 150 Questions)
